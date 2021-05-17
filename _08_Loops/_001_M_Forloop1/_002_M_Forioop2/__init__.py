@@ -15,18 +15,18 @@ for val in range(1001, 2001, 2):
 #####33print of multiples of 5 from 5 to 100 by using range#####
 
 
-for val in range(5,100,5):
+for val in range(5, 100, 5):
     print("5 multiple value : ", val)
 
 
 #### print of values from big number to small number####
 
-for val in range(100,5,-5):
+for val in range(100, 5, -5):
     print("5 multilple value : ", val)
 
 
 ####3print of values from 0 to 100####
-for val in range(0,2000,50 ):
+for val in range(0, 2000, 50 ):
     print("range value : ", val)
 
 
